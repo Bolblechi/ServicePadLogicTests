@@ -10,7 +10,6 @@ def fizz_buzz(number):
     return result
 
 import unittest
-import random
 
 prime_numbers = [1, 2, 7, 11, 13]# Using prime numbers, except 3 and 5, to ensure that aren't multiples of them
 
